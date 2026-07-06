@@ -1,2 +1,3 @@
 - **06-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Helped Member 5 format the abstract document properly
 - **06-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Looked into Spring Boot versions to see which one is stable for us
+- **06-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Met with our project guide to discuss the scope and database architecture
