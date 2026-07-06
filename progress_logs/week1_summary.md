@@ -1,0 +1,1 @@
+- **06-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Helped Member 5 format the abstract document properly
