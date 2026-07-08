@@ -10,3 +10,4 @@
 - **07-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Submitted the final SRS document to the mentor for formal review
 - **08-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Explored JavaScript libraries for image comparison sliders
 - **08-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Discussed the backend architecture requirements for the SRS document
+- **08-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated team deliverables and registered our project on the PBL portal
