@@ -9,3 +9,4 @@
 - **07-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Watched tutorials on connecting FastAPI with a PyTorch model
 - **07-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Submitted the final SRS document to the mentor for formal review
 - **08-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Explored JavaScript libraries for image comparison sliders
+- **08-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Discussed the backend architecture requirements for the SRS document
