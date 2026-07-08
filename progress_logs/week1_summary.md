@@ -8,3 +8,4 @@
 - **07-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led the team meeting to finalize LISS-IV cloud removal as our topic
 - **07-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Watched tutorials on connecting FastAPI with a PyTorch model
 - **07-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Submitted the final SRS document to the mentor for formal review
+- **08-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Explored JavaScript libraries for image comparison sliders
