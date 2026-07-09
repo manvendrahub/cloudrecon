@@ -13,3 +13,4 @@
 - **08-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated team deliverables and registered our project on the PBL portal
 - **08-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Discussed API payload structure with Member 2 over Discord
 - **08-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Submitted the final SRS document to the mentor for formal review
+- **09-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Drafted frontend requirements section for the project abstract
