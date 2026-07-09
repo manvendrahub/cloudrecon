@@ -15,3 +15,4 @@
 - **08-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Submitted the final SRS document to the mentor for formal review
 - **09-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Drafted frontend requirements section for the project abstract
 - **09-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
+- **09-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
