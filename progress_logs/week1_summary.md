@@ -20,3 +20,4 @@
 - **09-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted the index, table of contents, and headings for the SRS PDF
 - **10-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Researched existing satellite imagery web tools and UI layouts
 - **10-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read articles on how satellite data is processed in web apps
+- **10-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
