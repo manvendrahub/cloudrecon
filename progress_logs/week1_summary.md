@@ -22,3 +22,4 @@
 - **10-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read articles on how satellite data is processed in web apps
 - **10-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
 - **10-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote the AI hardware requirements (GPU/RAM specs) for the SRS
+- **10-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled everyone's research and typed the final Abstract on the portal
