@@ -23,3 +23,4 @@
 - **10-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
 - **10-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote the AI hardware requirements (GPU/RAM specs) for the SRS
 - **10-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled everyone's research and typed the final Abstract on the portal
+- **11-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Researched modern UI/UX design trends for satellite dashboards
