@@ -26,3 +26,4 @@
 - **11-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Researched modern UI/UX design trends for satellite dashboards
 - **11-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Looked into Spring Boot versions to see which one is stable for us
 - **11-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
+- **11-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote the AI hardware requirements (GPU/RAM specs) for the SRS
