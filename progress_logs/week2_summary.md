@@ -1,0 +1,1 @@
+- **12-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Documented code and added inline comments
