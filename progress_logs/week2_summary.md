@@ -7,3 +7,4 @@
 - **13-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
 - **13-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Drafted database ER constraints and hardware requirements for the SRS
 - **13-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Read up on PyTorch image transformations for the SRS document
+- **13-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Proofread the SRS document to fix grammatical and formatting issues
