@@ -3,3 +3,4 @@
 - **12-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Read technical documentation relevant to assigned module
 - **12-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Documented code and added inline comments
 - **12-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
+- **13-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Explored JavaScript libraries for image comparison sliders
