@@ -4,3 +4,4 @@
 - **12-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Documented code and added inline comments
 - **12-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
 - **13-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Explored JavaScript libraries for image comparison sliders
+- **13-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
