@@ -11,3 +11,4 @@
 - **14-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Drafted frontend requirements section for the project abstract
 - **14-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
 - **14-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated team deliverables and registered our project on the PBL portal
+- **14-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Looked at sample LISS-IV and Sentinel cloud datasets online
