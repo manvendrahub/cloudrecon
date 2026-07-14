@@ -10,3 +10,4 @@
 - **13-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Proofread the SRS document to fix grammatical and formatting issues
 - **14-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Drafted frontend requirements section for the project abstract
 - **14-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
+- **14-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated team deliverables and registered our project on the PBL portal
