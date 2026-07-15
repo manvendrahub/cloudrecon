@@ -14,3 +14,4 @@
 - **14-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Looked at sample LISS-IV and Sentinel cloud datasets online
 - **14-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled everyone's research and typed the final Abstract on the portal
 - **15-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Drafted frontend requirements section for the project abstract
+- **15-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read articles on how satellite data is processed in web apps
