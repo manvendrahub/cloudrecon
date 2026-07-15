@@ -17,3 +17,4 @@
 - **15-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read articles on how satellite data is processed in web apps
 - **15-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Researched MySQL storage limits for saving high-resolution satellite tiles
 - **15-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote the AI hardware requirements (GPU/RAM specs) for the SRS
+- **15-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled everyone's research and typed the final Abstract on the portal
