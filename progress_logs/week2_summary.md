@@ -21,3 +21,4 @@
 - **16-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Helped Member 5 format the abstract document properly
 - **16-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read articles on how satellite data is processed in web apps
 - **16-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Met with our project guide to discuss the scope and database architecture
+- **16-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Discussed API payload structure with Member 2 over Discord
