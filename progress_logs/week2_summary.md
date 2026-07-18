@@ -29,3 +29,4 @@
 - **17-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Looked at sample LISS-IV and Sentinel cloud datasets online
 - **17-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted the index, table of contents, and headings for the SRS PDF
 - **18-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Researched modern UI/UX design trends for satellite dashboards
+- **18-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Listed out functional requirements for user authentication
