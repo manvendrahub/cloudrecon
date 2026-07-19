@@ -1,1 +1,2 @@
 - **19-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Prepared personal task schedule for the upcoming week
+- **19-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Organized project files and cleaned up workspace
