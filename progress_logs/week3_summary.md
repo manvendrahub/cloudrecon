@@ -7,3 +7,4 @@
 - **20-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Created Sequence Diagram for the login and token generation process
 - **20-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed ER diagram with project guide and refined table relationships
 - **20-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
+- **20-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
