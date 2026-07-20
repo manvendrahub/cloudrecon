@@ -4,3 +4,4 @@
 - **19-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Read technical documentation relevant to assigned module
 - **19-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
 - **20-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
+- **20-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Created Sequence Diagram for the login and token generation process
