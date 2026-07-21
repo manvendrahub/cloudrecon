@@ -10,3 +10,4 @@
 - **20-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
 - **21-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Spent time adjusting dark-theme color palettes for the frontend UI
 - **21-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Discussed REST API endpoint naming conventions with Member 1
+- **21-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote initial database schema definitions (DDL) and constraints
