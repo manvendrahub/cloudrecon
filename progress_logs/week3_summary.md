@@ -11,3 +11,4 @@
 - **21-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Spent time adjusting dark-theme color palettes for the frontend UI
 - **21-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Discussed REST API endpoint naming conventions with Member 1
 - **21-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote initial database schema definitions (DDL) and constraints
+- **21-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
