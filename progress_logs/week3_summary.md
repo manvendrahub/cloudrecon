@@ -8,3 +8,4 @@
 - **20-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed ER diagram with project guide and refined table relationships
 - **20-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
 - **20-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
+- **21-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Spent time adjusting dark-theme color palettes for the frontend UI
