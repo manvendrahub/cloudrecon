@@ -16,3 +16,4 @@
 - **22-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Started drawing UI Activity diagrams on draw.io for navigation flow
 - **22-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Set up Postman workspace for future backend API testing
 - **22-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led weekly sync meeting to review UML diagrams across all modules
+- **22-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
