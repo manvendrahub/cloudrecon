@@ -13,3 +13,4 @@
 - **21-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote initial database schema definitions (DDL) and constraints
 - **21-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
 - **21-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified Class diagrams against the planned Spring Boot architecture
+- **22-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Started drawing UI Activity diagrams on draw.io for navigation flow
