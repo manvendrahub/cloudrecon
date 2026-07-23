@@ -19,3 +19,4 @@
 - **22-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
 - **22-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
 - **23-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Created rough wireframes for the workspace and dashboard layout
+- **23-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drew Spring Boot Class diagrams for controllers and services
