@@ -21,3 +21,4 @@
 - **23-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Created rough wireframes for the workspace and dashboard layout
 - **23-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drew Spring Boot Class diagrams for controllers and services
 - **23-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
+- **23-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
