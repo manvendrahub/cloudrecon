@@ -24,3 +24,4 @@
 - **23-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
 - **23-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Designed wireframes for the History and Analytics data tables
 - **24-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Spent time adjusting dark-theme color palettes for the frontend UI
+- **24-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drafted Component diagram showing frontend-backend interaction
