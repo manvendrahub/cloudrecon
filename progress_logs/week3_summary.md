@@ -27,3 +27,4 @@
 - **24-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drafted Component diagram showing frontend-backend interaction
 - **24-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created detailed Entity Relationship (ER) diagram for MySQL DB
 - **24-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Researched how to handle multipart file uploads in FastAPI
+- **24-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all UML diagrams into the official system design document
