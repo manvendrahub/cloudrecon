@@ -28,3 +28,4 @@
 - **24-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created detailed Entity Relationship (ER) diagram for MySQL DB
 - **24-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Researched how to handle multipart file uploads in FastAPI
 - **24-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all UML diagrams into the official system design document
+- **25-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
