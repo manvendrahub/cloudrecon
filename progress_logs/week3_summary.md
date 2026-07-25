@@ -30,3 +30,4 @@
 - **24-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all UML diagrams into the official system design document
 - **25-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
 - **25-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Set up Postman workspace for future backend API testing
+- **25-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed ER diagram with project guide and refined table relationships
