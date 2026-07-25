@@ -29,3 +29,4 @@
 - **24-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Researched how to handle multipart file uploads in FastAPI
 - **24-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all UML diagrams into the official system design document
 - **25-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
+- **25-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Set up Postman workspace for future backend API testing
