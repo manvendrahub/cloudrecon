@@ -6,3 +6,4 @@
 - **27-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
 - **27-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drafted Component diagram showing frontend-backend interaction
 - **27-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led weekly sync meeting to review UML diagrams across all modules
+- **27-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
