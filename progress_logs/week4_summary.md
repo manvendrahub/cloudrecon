@@ -3,3 +3,4 @@
 - **26-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Held brief team coordination check-in on WhatsApp
 - **26-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Organized project files and cleaned up workspace
 - **26-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
+- **27-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
