@@ -8,3 +8,4 @@
 - **27-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led weekly sync meeting to review UML diagrams across all modules
 - **27-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
 - **27-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified Class diagrams against the planned Spring Boot architecture
+- **28-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Created rough wireframes for the workspace and dashboard layout
