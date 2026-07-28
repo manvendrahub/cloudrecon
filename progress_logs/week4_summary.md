@@ -12,3 +12,4 @@
 - **28-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Created Sequence Diagram for the login and token generation process
 - **28-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote initial database schema definitions (DDL) and constraints
 - **28-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created mock JSON responses for the upcoming AI integration testing
+- **28-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Designed wireframes for the History and Analytics data tables
