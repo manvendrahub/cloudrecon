@@ -17,3 +17,4 @@
 - **29-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drew Spring Boot Class diagrams for controllers and services
 - **29-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
 - **29-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created Sequence diagram showing Spring Boot calling FastAPI
+- **29-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
