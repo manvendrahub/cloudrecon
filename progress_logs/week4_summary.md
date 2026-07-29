@@ -15,3 +15,4 @@
 - **28-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Designed wireframes for the History and Analytics data tables
 - **29-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
 - **29-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drew Spring Boot Class diagrams for controllers and services
+- **29-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
