@@ -13,3 +13,4 @@
 - **28-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote initial database schema definitions (DDL) and constraints
 - **28-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created mock JSON responses for the upcoming AI integration testing
 - **28-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Designed wireframes for the History and Analytics data tables
+- **29-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
