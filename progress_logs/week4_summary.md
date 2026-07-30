@@ -19,3 +19,4 @@
 - **29-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created Sequence diagram showing Spring Boot calling FastAPI
 - **29-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
 - **30-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
+- **30-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Set up Postman workspace for future backend API testing
