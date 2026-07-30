@@ -21,3 +21,4 @@
 - **30-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
 - **30-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Set up Postman workspace for future backend API testing
 - **30-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created detailed Entity Relationship (ER) diagram for MySQL DB
+- **30-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created Sequence diagram showing Spring Boot calling FastAPI
