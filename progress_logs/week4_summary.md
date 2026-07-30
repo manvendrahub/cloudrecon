@@ -18,3 +18,4 @@
 - **29-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
 - **29-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created Sequence diagram showing Spring Boot calling FastAPI
 - **29-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Formatted and submitted the Design Phase documentation to guide
+- **30-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Mapped out how the user will transition between the 6 web pages
