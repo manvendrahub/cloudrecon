@@ -26,3 +26,4 @@
 - **31-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
 - **31-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Created Sequence Diagram for the login and token generation process
 - **31-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
+- **31-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
