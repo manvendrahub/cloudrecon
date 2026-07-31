@@ -25,3 +25,4 @@
 - **30-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all UML diagrams into the official system design document
 - **31-07-2026** | **Aarav Sharma** (Frontend & UI/UX): Designed Login and Signup page mockups in Figma
 - **31-07-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Created Sequence Diagram for the login and token generation process
+- **31-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
