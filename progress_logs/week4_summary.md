@@ -28,3 +28,4 @@
 - **31-07-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created Data Flow Diagrams (DFD Level 0 and Level 1)
 - **31-07-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Set up local Python virtual environment to test model packages
 - **31-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Cross-checked DB schemas against functional requirements in SRS
+- **01-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Created rough wireframes for the workspace and dashboard layout
