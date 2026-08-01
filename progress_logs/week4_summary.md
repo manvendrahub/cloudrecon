@@ -32,3 +32,4 @@
 - **01-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drafted Component diagram showing frontend-backend interaction
 - **01-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led weekly sync meeting to review UML diagrams across all modules
 - **01-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Drew flowchart of the PyTorch AI reconstruction pipeline
+- **01-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Designed wireframes for the History and Analytics data tables
