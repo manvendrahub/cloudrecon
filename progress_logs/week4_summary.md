@@ -30,3 +30,4 @@
 - **31-07-2026** | **Neha Verma** (Analytics, Testing & Docs): Cross-checked DB schemas against functional requirements in SRS
 - **01-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Created rough wireframes for the workspace and dashboard layout
 - **01-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Drafted Component diagram showing frontend-backend interaction
+- **01-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led weekly sync meeting to review UML diagrams across all modules
