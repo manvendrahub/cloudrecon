@@ -1,0 +1,1 @@
+- **02-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Organized project files and cleaned up workspace
