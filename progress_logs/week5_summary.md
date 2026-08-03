@@ -4,3 +4,4 @@
 - **02-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
 - **02-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
 - **03-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
+- **03-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
