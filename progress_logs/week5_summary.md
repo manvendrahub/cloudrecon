@@ -9,3 +9,4 @@
 - **03-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
 - **03-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Tested DB connection by manually inserting dummy records
 - **04-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Integrated Bootstrap 5 and customized dark telemetry styling
+- **04-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
