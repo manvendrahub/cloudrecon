@@ -13,3 +13,4 @@
 - **04-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Installed MySQL server and executed finalized DDL table schemas
 - **04-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
 - **04-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
+- **05-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
