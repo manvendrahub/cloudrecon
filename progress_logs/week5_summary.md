@@ -20,3 +20,4 @@
 - **05-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote service method to fetch past processed images by User ID
 - **06-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Started coding HTML/CSS for the Landing Page and navigation bar
 - **06-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
+- **06-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created file storage service to manage image paths on disk
