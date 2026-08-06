@@ -18,3 +18,4 @@
 - **05-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Configured database connection properties in Spring Boot application
 - **05-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
 - **05-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote service method to fetch past processed images by User ID
+- **06-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Started coding HTML/CSS for the Landing Page and navigation bar
