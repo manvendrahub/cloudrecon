@@ -23,3 +23,4 @@
 - **06-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created file storage service to manage image paths on disk
 - **06-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Implemented image normalization and denormalization functions
 - **06-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
+- **07-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Started coding HTML/CSS for the Landing Page and navigation bar
