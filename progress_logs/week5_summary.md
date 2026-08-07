@@ -25,3 +25,4 @@
 - **06-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
 - **07-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Started coding HTML/CSS for the Landing Page and navigation bar
 - **07-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
+- **07-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
