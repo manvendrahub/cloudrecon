@@ -31,3 +31,4 @@
 - **08-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
 - **08-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
 - **08-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
+- **08-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
