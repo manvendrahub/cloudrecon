@@ -4,3 +4,4 @@
 - **09-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed weekly git commits pushed to the repository
 - **09-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
 - **10-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
+- **10-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
