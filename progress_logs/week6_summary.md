@@ -5,3 +5,4 @@
 - **09-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
 - **10-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
 - **10-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
+- **10-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
