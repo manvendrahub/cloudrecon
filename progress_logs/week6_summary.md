@@ -10,3 +10,4 @@
 - **10-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
 - **11-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
 - **11-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
+- **11-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
