@@ -14,3 +14,4 @@
 - **11-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
 - **11-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
 - **12-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
+- **12-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
