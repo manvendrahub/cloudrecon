@@ -20,3 +20,4 @@
 - **12-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
 - **13-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
 - **13-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
+- **13-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Installed MySQL server and executed finalized DDL table schemas
