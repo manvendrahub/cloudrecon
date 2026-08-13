@@ -21,3 +21,4 @@
 - **13-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
 - **13-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
 - **13-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Installed MySQL server and executed finalized DDL table schemas
+- **13-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
