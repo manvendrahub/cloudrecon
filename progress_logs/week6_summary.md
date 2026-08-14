@@ -24,3 +24,4 @@
 - **13-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
 - **13-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote service method to fetch past processed images by User ID
 - **14-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
+- **14-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
