@@ -31,3 +31,4 @@
 - **15-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Integrated Bootstrap 5 and customized dark telemetry styling
 - **15-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote User Entity, DTO, and Repository interfaces
 - **15-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Installed MySQL server and executed finalized DDL table schemas
+- **15-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
