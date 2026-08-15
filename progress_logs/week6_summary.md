@@ -28,3 +28,4 @@
 - **14-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Configured database connection properties in Spring Boot application
 - **14-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
 - **14-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
+- **15-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Integrated Bootstrap 5 and customized dark telemetry styling
