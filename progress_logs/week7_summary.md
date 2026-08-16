@@ -1,3 +1,4 @@
 - **16-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Documented code and added inline comments
 - **16-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed weekly git commits pushed to the repository
 - **16-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
+- **16-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Organized project files and cleaned up workspace
