@@ -4,3 +4,4 @@
 - **16-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Organized project files and cleaned up workspace
 - **16-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
 - **17-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
+- **17-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
