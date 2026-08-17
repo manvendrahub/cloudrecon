@@ -7,3 +7,4 @@
 - **17-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
 - **17-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
 - **17-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
+- **17-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
