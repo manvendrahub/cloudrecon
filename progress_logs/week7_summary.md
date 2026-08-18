@@ -10,3 +10,4 @@
 - **17-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
 - **18-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
 - **18-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
+- **18-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Configured database connection properties in Spring Boot application
