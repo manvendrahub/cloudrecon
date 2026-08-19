@@ -14,3 +14,4 @@
 - **18-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
 - **18-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
 - **19-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
+- **19-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
