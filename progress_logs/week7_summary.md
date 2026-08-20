@@ -18,3 +18,4 @@
 - **19-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
 - **19-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Tested multipart file upload endpoint using Postman successfully
 - **19-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
+- **20-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
