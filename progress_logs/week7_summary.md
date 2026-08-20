@@ -20,3 +20,4 @@
 - **19-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
 - **20-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
 - **20-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
+- **20-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
