@@ -26,3 +26,4 @@
 - **21-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
 - **21-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Successfully implemented JWT token generation and validation on login
 - **21-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
+- **21-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
