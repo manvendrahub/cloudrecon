@@ -23,3 +23,4 @@
 - **20-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
 - **20-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
 - **20-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
+- **21-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
