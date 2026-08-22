@@ -29,3 +29,4 @@
 - **21-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
 - **21-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
 - **22-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
+- **22-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Successfully implemented JWT token generation and validation on login
