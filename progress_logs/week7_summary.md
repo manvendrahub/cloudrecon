@@ -31,3 +31,4 @@
 - **22-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
 - **22-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Successfully implemented JWT token generation and validation on login
 - **22-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
+- **22-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote core FastAPI inference server code in main.py
