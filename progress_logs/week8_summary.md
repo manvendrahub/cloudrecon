@@ -2,3 +2,4 @@
 - **23-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Organized project files and cleaned up workspace
 - **23-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed weekly git commits pushed to the repository
 - **23-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Performed light testing of integrated modules
+- **23-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Reviewed technical tutorials to resolve blockers from previous week
