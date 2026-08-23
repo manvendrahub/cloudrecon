@@ -1,2 +1,3 @@
 - **23-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Reviewed weekly git commits pushed to the repository
 - **23-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Organized project files and cleaned up workspace
+- **23-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed weekly git commits pushed to the repository
