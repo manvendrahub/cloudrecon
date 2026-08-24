@@ -5,3 +5,4 @@
 - **23-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Reviewed technical tutorials to resolve blockers from previous week
 - **24-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
 - **24-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Initialized Spring Boot project with required Maven dependencies
+- **24-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
