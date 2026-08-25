@@ -8,3 +8,4 @@
 - **24-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
 - **24-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
 - **24-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
+- **25-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Started coding HTML/CSS for the Landing Page and navigation bar
