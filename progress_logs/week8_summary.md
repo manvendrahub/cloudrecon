@@ -12,3 +12,4 @@
 - **25-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Resolved initial Maven dependency version conflicts
 - **25-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
 - **25-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
+- **25-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
