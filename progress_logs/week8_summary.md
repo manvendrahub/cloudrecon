@@ -16,3 +16,4 @@
 - **26-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
 - **26-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote User Entity, DTO, and Repository interfaces
 - **26-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created file storage service to manage image paths on disk
+- **26-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
