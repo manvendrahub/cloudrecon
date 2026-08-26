@@ -15,3 +15,4 @@
 - **25-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created History Controller logic in Spring Boot
 - **26-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Wrote JavaScript for the drag-and-drop satellite tile upload zone
 - **26-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote User Entity, DTO, and Repository interfaces
+- **26-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created file storage service to manage image paths on disk
