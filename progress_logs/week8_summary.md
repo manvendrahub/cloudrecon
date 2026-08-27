@@ -19,3 +19,4 @@
 - **26-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
 - **26-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
 - **27-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
+- **27-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
