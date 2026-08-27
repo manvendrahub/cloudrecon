@@ -20,3 +20,4 @@
 - **26-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
 - **27-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed CSS grid alignment issues on smaller laptop screens
 - **27-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
+- **27-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Configured database connection properties in Spring Boot application
