@@ -22,3 +22,4 @@
 - **27-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
 - **27-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Configured database connection properties in Spring Boot application
 - **27-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved PyTorch tensor shape mismatch error during image loading
+- **27-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Created responsive HTML table to display processing history
