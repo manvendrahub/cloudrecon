@@ -27,3 +27,4 @@
 - **28-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Configured Spring Security and resolved initial 403 Forbidden errors
 - **28-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Wrote JPA repository queries to save image metadata and timestamps
 - **28-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Tested multipart file upload endpoint using Postman successfully
+- **28-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Tested DB connection by manually inserting dummy records
