@@ -32,3 +32,4 @@
 - **29-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Successfully implemented JWT token generation and validation on login
 - **29-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Monitored team coding progress and ensured adherence to PBL guidelines
 - **29-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote code to convert PyTorch output tensors back to JPEG files
+- **29-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Assisted Member 2 in testing security endpoints with Postman
