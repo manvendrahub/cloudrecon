@@ -29,3 +29,4 @@
 - **28-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Tested multipart file upload endpoint using Postman successfully
 - **28-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Tested DB connection by manually inserting dummy records
 - **29-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Implemented the interactive Before/After image comparison slider
+- **29-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Successfully implemented JWT token generation and validation on login
