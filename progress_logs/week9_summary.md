@@ -1,1 +1,2 @@
 - **30-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Performed light testing of integrated modules
+- **30-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Prepared personal task schedule for the upcoming week
