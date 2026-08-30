@@ -1,3 +1,4 @@
 - **30-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Performed light testing of integrated modules
 - **30-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Prepared personal task schedule for the upcoming week
 - **30-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Documented code and added inline comments
+- **30-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared personal task schedule for the upcoming week
