@@ -4,3 +4,4 @@
 - **30-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared personal task schedule for the upcoming week
 - **30-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Organized project files and cleaned up workspace
 - **31-08-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
+- **31-08-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Refactored controller code into clean, modular service layers
