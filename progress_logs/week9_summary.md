@@ -11,3 +11,4 @@
 - **01-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
 - **01-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Refactored controller code into clean, modular service layers
 - **01-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
+- **01-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
