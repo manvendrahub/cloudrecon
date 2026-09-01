@@ -8,3 +8,4 @@
 - **31-08-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
 - **31-08-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved issue where PyTorch output saved as an all-black square
 - **31-08-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote utility to generate downloadable PDF reports of sensor metadata
+- **01-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
