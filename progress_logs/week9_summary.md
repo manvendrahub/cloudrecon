@@ -21,3 +21,4 @@
 - **03-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
 - **03-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
 - **03-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Optimized SQL queries with indexing to speed up history retrieval
+- **03-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Debugged 500 error when Spring Boot forwarded image to Python service
