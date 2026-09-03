@@ -19,3 +19,4 @@
 - **02-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
 - **02-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Implemented dynamic pagination and sorting for history table
 - **03-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
+- **03-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
