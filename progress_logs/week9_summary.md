@@ -27,3 +27,4 @@
 - **04-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Integrated JWT auth headers with frontend requests and resolved CORS bugs
 - **04-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
 - **04-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Dockerized the FastAPI AI service to simplify local deployment
+- **04-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote utility to generate downloadable PDF reports of sensor metadata
