@@ -25,3 +25,4 @@
 - **03-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
 - **04-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Connected frontend Fetch API to the backend authentication endpoints
 - **04-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Integrated JWT auth headers with frontend requests and resolved CORS bugs
+- **04-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
