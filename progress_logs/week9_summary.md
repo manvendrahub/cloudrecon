@@ -23,3 +23,4 @@
 - **03-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Optimized SQL queries with indexing to speed up history retrieval
 - **03-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Debugged 500 error when Spring Boot forwarded image to Python service
 - **03-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
+- **04-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Connected frontend Fetch API to the backend authentication endpoints
