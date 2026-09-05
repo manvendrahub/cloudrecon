@@ -28,3 +28,4 @@
 - **04-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
 - **04-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Dockerized the FastAPI AI service to simplify local deployment
 - **04-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote utility to generate downloadable PDF reports of sensor metadata
+- **05-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed layout bug where telemetry sidebar was overlapping main workspace
