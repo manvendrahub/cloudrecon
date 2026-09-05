@@ -31,3 +31,4 @@
 - **05-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed layout bug where telemetry sidebar was overlapping main workspace
 - **05-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Refactored controller code into clean, modular service layers
 - **05-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
+- **05-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Conducted end-to-end image pass-through testing with Member 1
