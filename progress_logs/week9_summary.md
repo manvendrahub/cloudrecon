@@ -35,3 +35,4 @@
 - **05-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Implemented dynamic pagination and sorting for history table
 - **06-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Reviewed technical tutorials to resolve blockers from previous week
 - **06-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Documented code and added inline comments
+- **06-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
