@@ -33,3 +33,4 @@
 - **05-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Verified that image metadata and foreign keys persist accurately
 - **05-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Conducted end-to-end image pass-through testing with Member 1
 - **05-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Implemented dynamic pagination and sorting for history table
+- **06-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Reviewed technical tutorials to resolve blockers from previous week
