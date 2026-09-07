@@ -38,3 +38,4 @@
 - **06-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
 - **06-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
 - **06-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Documented code and added inline comments
+- **07-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed layout bug where telemetry sidebar was overlapping main workspace
