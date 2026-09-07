@@ -42,3 +42,4 @@
 - **07-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
 - **07-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
 - **07-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
+- **07-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified all features against the original SRS compliance checklist
