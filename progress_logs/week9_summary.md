@@ -46,3 +46,4 @@
 - **08-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Connected frontend Fetch API to the backend authentication endpoints
 - **08-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
 - **08-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Optimized SQL queries with indexing to speed up history retrieval
+- **08-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
