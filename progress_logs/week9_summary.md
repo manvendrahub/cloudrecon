@@ -43,3 +43,4 @@
 - **07-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
 - **07-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
 - **07-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified all features against the original SRS compliance checklist
+- **08-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Connected frontend Fetch API to the backend authentication endpoints
