@@ -55,3 +55,4 @@
 - **09-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
 - **10-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
 - **10-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Refactored controller code into clean, modular service layers
+- **10-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
