@@ -56,3 +56,4 @@
 - **10-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
 - **10-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Refactored controller code into clean, modular service layers
 - **10-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
+- **10-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Resolved issue where PyTorch output saved as an all-black square
