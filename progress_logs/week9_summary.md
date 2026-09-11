@@ -60,3 +60,4 @@
 - **10-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified all features against the original SRS compliance checklist
 - **11-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
 - **11-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
+- **11-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
