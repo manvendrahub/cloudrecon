@@ -67,3 +67,4 @@
 - **12-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend input validation logic for user registration
 - **12-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led integration review meeting to verify backend and DB sync
 - **12-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Conducted end-to-end image pass-through testing with Member 1
+- **12-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
