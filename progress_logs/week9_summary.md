@@ -63,3 +63,4 @@
 - **11-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
 - **11-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Debugged 500 error when Spring Boot forwarded image to Python service
 - **11-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Verified all features against the original SRS compliance checklist
+- **12-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
