@@ -72,3 +72,4 @@
 - **13-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed weekly git commits pushed to the repository
 - **13-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Held brief team coordination check-in on WhatsApp
 - **13-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Held brief team coordination check-in on WhatsApp
+- **13-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
