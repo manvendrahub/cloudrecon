@@ -69,3 +69,4 @@
 - **12-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Conducted end-to-end image pass-through testing with Member 1
 - **12-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
 - **13-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Performed light testing of integrated modules
+- **13-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed weekly git commits pushed to the repository
