@@ -75,3 +75,4 @@
 - **13-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
 - **14-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
 - **14-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Integrated JWT auth headers with frontend requests and resolved CORS bugs
+- **14-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led integration review meeting to verify backend and DB sync
