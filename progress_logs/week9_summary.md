@@ -73,3 +73,4 @@
 - **13-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Held brief team coordination check-in on WhatsApp
 - **13-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Held brief team coordination check-in on WhatsApp
 - **13-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Held brief team coordination check-in on WhatsApp
+- **14-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
