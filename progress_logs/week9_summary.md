@@ -78,3 +78,4 @@
 - **14-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led integration review meeting to verify backend and DB sync
 - **14-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
 - **14-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
+- **15-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Integrated JS comparison slider with dynamic image URLs from backend
