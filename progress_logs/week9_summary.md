@@ -84,3 +84,4 @@
 - **15-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
 - **15-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Executed full system integration testing and logged bugs in issue tracker
 - **16-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
+- **16-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Assisted Member 1 in parsing JSON response payloads correctly
