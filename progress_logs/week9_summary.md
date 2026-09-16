@@ -86,3 +86,4 @@
 - **16-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Tested UI cross-browser compatibility and fixed CSS rendering bugs
 - **16-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Assisted Member 1 in parsing JSON response payloads correctly
 - **16-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led integration review meeting to verify backend and DB sync
+- **16-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Debugged 500 error when Spring Boot forwarded image to Python service
