@@ -91,3 +91,4 @@
 - **17-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed layout bug where telemetry sidebar was overlapping main workspace
 - **17-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Assisted Member 1 in parsing JSON response payloads correctly
 - **17-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
+- **17-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Fixed JSON key mismatch between backend and AI (reconstructed_url)
