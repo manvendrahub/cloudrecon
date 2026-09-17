@@ -89,3 +89,4 @@
 - **16-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Debugged 500 error when Spring Boot forwarded image to Python service
 - **16-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote utility to generate downloadable PDF reports of sensor metadata
 - **17-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Fixed layout bug where telemetry sidebar was overlapping main workspace
+- **17-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Assisted Member 1 in parsing JSON response payloads correctly
