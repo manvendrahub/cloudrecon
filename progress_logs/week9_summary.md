@@ -96,3 +96,4 @@
 - **18-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
 - **18-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Added Global Exception Handling for clean, formatted error responses
 - **18-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
+- **18-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Dockerized the FastAPI AI service to simplify local deployment
