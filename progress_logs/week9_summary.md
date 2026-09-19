@@ -102,3 +102,4 @@
 - **19-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Added Global Exception Handling for clean, formatted error responses
 - **19-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Optimized SQL queries with indexing to speed up history retrieval
 - **19-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Conducted end-to-end image pass-through testing with Member 1
+- **19-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Wrote utility to generate downloadable PDF reports of sensor metadata
