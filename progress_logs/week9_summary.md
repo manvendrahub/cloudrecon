@@ -98,3 +98,4 @@
 - **18-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Tested file system read/write permissions on the deployment server
 - **18-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Dockerized the FastAPI AI service to simplify local deployment
 - **18-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran security and validation scans across all public API routes
+- **19-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Added loading progress indicators while awaiting AI reconstruction
