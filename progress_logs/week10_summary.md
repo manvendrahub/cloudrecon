@@ -1,3 +1,4 @@
 - **20-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Reviewed technical tutorials to resolve blockers from previous week
 - **20-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Documented code and added inline comments
 - **20-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Read technical documentation relevant to assigned module
+- **20-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
