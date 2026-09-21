@@ -7,3 +7,4 @@
 - **21-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Prepared technical answers for individual viva on Spring Boot architecture
 - **21-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated final report compilation and verified submission criteria
 - **21-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
+- **21-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
