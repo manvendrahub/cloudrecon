@@ -5,3 +5,4 @@
 - **20-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Organized project files and cleaned up workspace
 - **21-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Created slides covering frontend architecture for final PPT
 - **21-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Prepared technical answers for individual viva on Spring Boot architecture
+- **21-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated final report compilation and verified submission criteria
