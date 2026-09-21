@@ -3,3 +3,4 @@
 - **20-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Read technical documentation relevant to assigned module
 - **20-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
 - **20-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Organized project files and cleaned up workspace
+- **21-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Created slides covering frontend architecture for final PPT
