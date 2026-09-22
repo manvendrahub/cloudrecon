@@ -11,3 +11,4 @@
 - **22-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
 - **22-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend security and authentication chapter for the project report
 - **22-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
+- **22-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
