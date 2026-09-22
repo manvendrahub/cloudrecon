@@ -10,3 +10,4 @@
 - **21-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
 - **22-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
 - **22-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Wrote backend security and authentication chapter for the project report
+- **22-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
