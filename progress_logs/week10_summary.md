@@ -14,3 +14,4 @@
 - **22-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
 - **22-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Created the complete 15-slide PowerPoint Presentation for evaluation
 - **23-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Polished final UI typography, hover states, and color consistency
+- **23-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Finalized REST API documentation and endpoint specifications for report
