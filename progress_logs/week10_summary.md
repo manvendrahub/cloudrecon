@@ -16,3 +16,4 @@
 - **23-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Polished final UI typography, hover states, and color consistency
 - **23-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Finalized REST API documentation and endpoint specifications for report
 - **23-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led final practice presentation and mock viva session with team
+- **23-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Cleaned up Python codebase, added docstrings, and removed debug code
