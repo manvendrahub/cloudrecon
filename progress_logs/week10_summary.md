@@ -19,3 +19,4 @@
 - **23-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Cleaned up Python codebase, added docstrings, and removed debug code
 - **23-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
 - **24-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
+- **24-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed final PPT slides and added technical details on JWT flow
