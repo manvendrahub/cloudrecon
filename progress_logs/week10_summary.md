@@ -18,3 +18,4 @@
 - **23-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Led final practice presentation and mock viva session with team
 - **23-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Cleaned up Python codebase, added docstrings, and removed debug code
 - **23-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
+- **24-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
