@@ -26,3 +26,4 @@
 - **25-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Recorded screen walkthrough for the software demonstration video
 - **25-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Prepared technical answers for individual viva on Spring Boot architecture
 - **25-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
+- **25-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Verified Docker Compose environment starts cleanly without errors
