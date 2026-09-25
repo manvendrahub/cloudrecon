@@ -23,3 +23,4 @@
 - **24-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
 - **24-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
 - **24-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Conducted final check of all required uploads on the PBL portal
+- **25-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Recorded screen walkthrough for the software demonstration video
