@@ -28,3 +28,4 @@
 - **25-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
 - **25-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Verified Docker Compose environment starts cleanly without errors
 - **25-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Created the complete 15-slide PowerPoint Presentation for evaluation
+- **26-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
