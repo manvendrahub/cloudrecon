@@ -33,3 +33,4 @@
 - **26-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
 - **26-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created container deployment flowchart for the presentation deck
 - **26-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Edited and finalized the software demonstration video with voiceover
+- **27-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Organized project files and cleaned up workspace
