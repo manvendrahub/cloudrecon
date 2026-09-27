@@ -36,3 +36,4 @@
 - **27-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Organized project files and cleaned up workspace
 - **27-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read technical documentation relevant to assigned module
 - **27-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
+- **27-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared personal task schedule for the upcoming week
