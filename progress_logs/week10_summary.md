@@ -35,3 +35,4 @@
 - **26-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Edited and finalized the software demonstration video with voiceover
 - **27-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Organized project files and cleaned up workspace
 - **27-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read technical documentation relevant to assigned module
+- **27-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
