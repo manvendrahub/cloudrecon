@@ -34,3 +34,4 @@
 - **26-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created container deployment flowchart for the presentation deck
 - **26-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Edited and finalized the software demonstration video with voiceover
 - **27-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Organized project files and cleaned up workspace
+- **27-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Read technical documentation relevant to assigned module
