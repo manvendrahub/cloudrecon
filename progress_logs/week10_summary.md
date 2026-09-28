@@ -38,3 +38,4 @@
 - **27-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Reviewed technical tutorials to resolve blockers from previous week
 - **27-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared personal task schedule for the upcoming week
 - **27-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
+- **28-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Polished final UI typography, hover states, and color consistency
