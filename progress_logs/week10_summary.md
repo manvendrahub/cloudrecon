@@ -42,3 +42,4 @@
 - **28-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
 - **28-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created automated database backup and restore script for demo day
 - **28-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
+- **28-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Conducted final check of all required uploads on the PBL portal
