@@ -40,3 +40,4 @@
 - **27-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Performed light testing of integrated modules
 - **28-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Polished final UI typography, hover states, and color consistency
 - **28-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
+- **28-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Created automated database backup and restore script for demo day
