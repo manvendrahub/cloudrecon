@@ -47,3 +47,4 @@
 - **29-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
 - **29-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated final report compilation and verified submission criteria
 - **29-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote AI methodology and model architecture section for project report
+- **29-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all team chapters into the unified Project Report document
