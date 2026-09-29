@@ -44,3 +44,4 @@
 - **28-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
 - **28-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Conducted final check of all required uploads on the PBL portal
 - **29-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Created slides covering frontend architecture for final PPT
+- **29-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
