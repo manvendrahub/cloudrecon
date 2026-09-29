@@ -46,3 +46,4 @@
 - **29-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Created slides covering frontend architecture for final PPT
 - **29-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
 - **29-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated final report compilation and verified submission criteria
+- **29-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Wrote AI methodology and model architecture section for project report
