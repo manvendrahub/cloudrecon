@@ -50,3 +50,4 @@
 - **29-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all team chapters into the unified Project Report document
 - **30-09-2026** | **Aarav Sharma** (Frontend & UI/UX): Recorded screen walkthrough for the software demonstration video
 - **30-09-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
+- **30-09-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
