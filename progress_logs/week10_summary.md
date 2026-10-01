@@ -56,3 +56,4 @@
 - **01-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Recorded screen walkthrough for the software demonstration video
 - **01-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed final PPT slides and added technical details on JWT flow
 - **01-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Coordinated final report compilation and verified submission criteria
+- **01-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Verified Docker Compose environment starts cleanly without errors
