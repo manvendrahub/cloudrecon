@@ -54,3 +54,4 @@
 - **30-09-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Verified Docker Compose environment starts cleanly without errors
 - **30-09-2026** | **Neha Verma** (Analytics, Testing & Docs): Compiled all team chapters into the unified Project Report document
 - **01-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Recorded screen walkthrough for the software demonstration video
+- **01-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed final PPT slides and added technical details on JWT flow
