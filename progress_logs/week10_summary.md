@@ -61,3 +61,4 @@
 - **02-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Practiced individual demo walkthrough for the final evaluation
 - **02-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Verified all personal git commits were pushed to the repository
 - **02-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
+- **02-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Created container deployment flowchart for the presentation deck
