@@ -67,3 +67,4 @@
 - **03-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed final PPT slides and added technical details on JWT flow
 - **03-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
 - **03-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Cleaned up Python codebase, added docstrings, and removed debug code
+- **03-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
