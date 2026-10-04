@@ -72,3 +72,4 @@
 - **04-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed technical tutorials to resolve blockers from previous week
 - **04-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Documented code and added inline comments
 - **04-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
+- **04-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Organized project files and cleaned up workspace
