@@ -70,3 +70,4 @@
 - **03-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
 - **04-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Reviewed technical tutorials to resolve blockers from previous week
 - **04-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed technical tutorials to resolve blockers from previous week
+- **04-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Documented code and added inline comments
