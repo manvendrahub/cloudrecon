@@ -74,3 +74,4 @@
 - **04-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Reviewed technical tutorials to resolve blockers from previous week
 - **04-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Organized project files and cleaned up workspace
 - **05-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Created slides covering frontend architecture for final PPT
+- **05-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Finalized REST API documentation and endpoint specifications for report
