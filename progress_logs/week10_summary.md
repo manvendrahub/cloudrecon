@@ -82,3 +82,4 @@
 - **06-10-2026** | **Rohan Patel** (Backend (Spring Boot & Auth)): Reviewed final PPT slides and added technical details on JWT flow
 - **06-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Ensured GitHub repository met required commit thresholds across all members
 - **06-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Verified Docker Compose environment starts cleanly without errors
+- **06-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Ran project report through plagiarism check and verified it stayed under 20%
