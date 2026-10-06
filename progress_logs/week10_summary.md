@@ -78,3 +78,4 @@
 - **05-10-2026** | **Manvendra Singh** (Database (MySQL & Storage) (Lead)): Exported final database schema diagrams and data dictionary for report
 - **05-10-2026** | **Vikram Malhotra** (AI Integration (Python/FastAPI)): Prepared technical defense for PyTorch inference and U-Net architecture
 - **05-10-2026** | **Neha Verma** (Analytics, Testing & Docs): Edited and finalized the software demonstration video with voiceover
+- **06-10-2026** | **Aarav Sharma** (Frontend & UI/UX): Polished final UI typography, hover states, and color consistency
