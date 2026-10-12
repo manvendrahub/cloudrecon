@@ -38,9 +38,8 @@ services:
     volumes:
       - satellite_files:/app/data
     networks: [cloudrecon]
-    # Backend is internal-only; nginx proxies /api/* from the frontend container.
-    # Uncomment the line below ONLY if you want direct access for debugging.
-    # ports: ["8080:8080"]
+    # Exposed so Vercel (and direct API calls) can reach the backend
+    ports: ["8080:8080"]
 
   # ── Python FastAPI AI service ───────────────────────────────────────────────
   ai-service:
@@ -49,12 +48,10 @@ services:
       dockerfile: Dockerfile
     restart: unless-stopped
     environment:
-      GEMINI_API_KEY: ${GEMINI_API_KEY:-}   # leave blank to use LaMa/OpenCV fallback
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
       GEMINI_MODEL:   ${GEMINI_MODEL:-gemini-2.5-flash-image}
       MAX_SIDE:       ${AI_MAX_SIDE:-1024}
     networks: [cloudrecon]
-    # Also internal-only; uncomment for debugging
-    # ports: ["8000:8000"]
 
   # ── React/Nginx frontend ────────────────────────────────────────────────────
   frontend:

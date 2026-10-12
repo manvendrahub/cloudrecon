@@ -1,4 +1,4 @@
-# Python FastAPI AI service
+# Python FastAPI AI service — Optimized CPU build for c7i.flex.large
 FROM python:3.11-slim
 
 WORKDIR /app
@@ -9,13 +9,19 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
  && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
-# Upgrade pip and install deps; simple-lama-inpainting may download weights on first run
+
+# Install CPU-only PyTorch first, then other requirements to guarantee no CUDA bloat
 RUN pip install --no-cache-dir --upgrade pip \
- && pip install --no-cache-dir -r requirements.txt
+ && pip install --no-cache-dir \
+    --extra-index-url https://download.pytorch.org/whl/cpu \
+    torch torchvision \
+ && pip install --no-cache-dir -r requirements.txt \
+ && find /usr/local/lib/python3.11 -name "*.pyc" -delete \
+ && find /usr/local/lib/python3.11 -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true
 
 COPY app.py .
 
 EXPOSE 8000
 
-# Use 2 workers; for heavy images keep 1 to avoid OOM on small EC2 instances
+# 1 worker: optimal for 2 vCPU / 4 GB RAM on c7i.flex.large
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]

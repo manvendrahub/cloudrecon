@@ -1,7 +1,17 @@
 fastapi
-uvicorn
-opencv-python-headless
-numpy
-pillow
-simple-lama-inpainting
+uvicorn[standard]
 python-multipart
+pillow
+numpy
+
+# OpenCV headless
+opencv-python-headless
+
+# PyTorch CPU-only — ~500 MB vs ~5 GB CUDA version
+# c7i instances have no GPU, CPU-only is correct
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+# LaMa generative inpainting (auto-detects CPU, no GPU needed)
+simple-lama-inpainting
