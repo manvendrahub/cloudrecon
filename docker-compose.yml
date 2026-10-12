@@ -38,8 +38,6 @@ services:
     volumes:
       - satellite_files:/app/data
     networks: [cloudrecon]
-    # Exposed so Vercel (and direct API calls) can reach the backend
-    ports: ["8080:8080"]
 
   # ── Python FastAPI AI service ───────────────────────────────────────────────
   ai-service:
@@ -53,18 +51,20 @@ services:
       MAX_SIDE:       ${AI_MAX_SIDE:-1024}
     networks: [cloudrecon]
 
-  # ── React/Nginx frontend ────────────────────────────────────────────────────
+  # ── React/Nginx frontend (HTTP + HTTPS) ─────────────────────────────────────
   frontend:
     build:
       context: ./cloudrecon-ai-frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: /api   # relative path → nginx proxies to backend
+        VITE_API_URL: /api
     restart: unless-stopped
     depends_on: [backend]
     ports:
-      - "80:80"              # HTTP  – expose this on EC2
-      # For HTTPS add a Certbot/Traefik sidecar and map 443:443
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:ro
     networks: [cloudrecon]
 
 volumes:
