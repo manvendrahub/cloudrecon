@@ -1,0 +1,79 @@
+services:
+
+  # ── MySQL database ──────────────────────────────────────────────────────────
+  db:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE:      ${MYSQL_DATABASE}
+      MYSQL_USER:          ${DB_USER}
+      MYSQL_PASSWORD:      ${DB_PASSWORD}
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost",
+             "-u", "${DB_USER}", "-p${DB_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks: [cloudrecon]
+
+  # ── Spring Boot backend ─────────────────────────────────────────────────────
+  backend:
+    build:
+      context: ./cloudrecon-backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/${MYSQL_DATABASE}?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+      DB_USER:              ${DB_USER}
+      DB_PASSWORD:          ${DB_PASSWORD}
+      JWT_SECRET:           ${JWT_SECRET}
+      AI_SERVICE_URL:       http://ai-service:8000
+      APP_CORS_ORIGINS:     ${CORS_ORIGINS}
+    volumes:
+      - satellite_files:/app/data
+    networks: [cloudrecon]
+    # Backend is internal-only; nginx proxies /api/* from the frontend container.
+    # Uncomment the line below ONLY if you want direct access for debugging.
+    # ports: ["8080:8080"]
+
+  # ── Python FastAPI AI service ───────────────────────────────────────────────
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    environment:
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}   # leave blank to use LaMa/OpenCV fallback
+      GEMINI_MODEL:   ${GEMINI_MODEL:-gemini-2.5-flash-image}
+      MAX_SIDE:       ${AI_MAX_SIDE:-1024}
+    networks: [cloudrecon]
+    # Also internal-only; uncomment for debugging
+    # ports: ["8000:8000"]
+
+  # ── React/Nginx frontend ────────────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./cloudrecon-ai-frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: /api   # relative path → nginx proxies to backend
+    restart: unless-stopped
+    depends_on: [backend]
+    ports:
+      - "80:80"              # HTTP  – expose this on EC2
+      # For HTTPS add a Certbot/Traefik sidecar and map 443:443
+    networks: [cloudrecon]
+
+volumes:
+  mysql_data:
+  satellite_files:
+
+networks:
+  cloudrecon:
+    driver: bridge

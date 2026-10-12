@@ -1,0 +1,17 @@
+# Secrets – never commit these
+.env
+
+# Docker generated files
+*.log
+
+# Java build artifacts
+cloudrecon-backend/target/
+
+# Node
+cloudrecon-ai-frontend/node_modules/
+cloudrecon-ai-frontend/dist/
+
+# Python
+ai-service/__pycache__/
+ai-service/*.pyc
+*.pyc
